@@ -17,4 +17,4 @@ https://github.com/user-attachments/assets/ed4d4827-0c6a-4adb-89e0-9c539af70082
 
 
 
-[Find more about the 7 day flutter challenge here.](https://codinglollypop.medium.com/7-days-of-flutter-fun-a-visual-journey-through-animations-4caeb556403e))
+[Find more about the 7 day flutter challenge here.](https://codinglollypop.medium.com/7-days-of-flutter-fun-a-visual-journey-through-animations-4caeb556403e)
